@@ -13,9 +13,7 @@ I am JS/TS developer. I mostly write discord bots, but it's fun to do something 
 - Haxe
 
 ## Learning
-- C++/ncurses
-- Bun/ElysiaJS
-- Haxe/Kha
+- Rust
 
 # More about me
 I started learning js in 2019, and almost immediately became interested in bot development. In the same year my first serious project was written - a discord bot (more about this [here](https://github.com/ClintFlames/asoul-r)). Later, I wrote applications on express, made low-quality modules and games on unity/godot and pure js. In a 2022 (i think) i started learning Haxe. Not so long ago I wrote a userscript that showed allies on the radar in the game diep.io. And many many other things.<br>
