@@ -1,7 +1,7 @@
 [//]: # (Is This a Diabarha Reference?)
 # Be Quiet, Wanderer / Clint Is Here
 
-I am JS/TS developer. I mostly write discord bots, but it's fun to do something else. <a target="_blank" href="https://wakatime.com/@ClintFlames"><img src="https://wakatime.com/badge/user/3e783793-7e39-46f3-a49b-560625ddc898.svg?style=flat"></a>
+I am JS/TS developer. I mostly write discord bots, but it's fun to do something else. I listen hardCORE/speedCORE/splitterCORE/extraTONE and other *CORE, my [playlist](https://www.youtube.com/playlist?list=PLwuTirF-HU3HcOW5vfMFBUF5Kz4tAbHDy). <a target="_blank" href="https://wakatime.com/@ClintFlames"><img src="https://wakatime.com/badge/user/3e783793-7e39-46f3-a49b-560625ddc898.svg?style=flat"></a>
 
 # Some of my skills:
 - JavaScript/TypeScript
