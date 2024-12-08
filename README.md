@@ -13,6 +13,10 @@ I am JS/TS developer. I mostly write discord bots, but it's fun to do something 
 - Haxe
 
 ## Learning
+- C
+
+## Abandoned
+- C++
 - Rust
 
 # More about me
