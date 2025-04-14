@@ -1,5 +1,5 @@
 [//]: # (Is This a Diabarha Reference?)
-# Be Quiet, Wanderer / Clint Is Here
+# Be Quiet, Wanderer / KOMETA Is Here
 
 I am JS/TS developer. I mostly write discord bots, but it's fun to do something else. I listen hardCORE/speedCORE/splitterCORE/extraTONE and other *CORE, my [playlist](https://www.youtube.com/playlist?list=PLwuTirF-HU3HcOW5vfMFBUF5Kz4tAbHDy). <a target="_blank" href="https://wakatime.com/@ClintFlames"><img src="https://wakatime.com/badge/user/3e783793-7e39-46f3-a49b-560625ddc898.svg?style=flat"></a>
 
@@ -27,8 +27,8 @@ P.S.S. You can’t find much of what I’m talking about on github, since these 
 # Stats and contact
 
 <span>
-	<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=ClintFlames&title_color=f44&text_color=fff&icon_color=f66&border_color=111117&bg_color=222227&border_radius=4.5&card_width=400&rank_icon=default&show_icons=true&line_height=25&custom_title=My%20Github%20Stats&text_bold=true&ring_color=9b2d30&number_format=long">
-	<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClintFlames&title_color=f44&text_color=fff&border_color=111117&bg_color=222227&border_radius=4.5&layout=donut&langs_count=5&custom_title=My%20Most%20Used%20Languages">
+	<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=KN13KOMETA&title_color=f44&text_color=fff&icon_color=f66&border_color=111117&bg_color=222227&border_radius=4.5&card_width=400&rank_icon=default&show_icons=true&line_height=25&custom_title=My%20Github%20Stats&text_bold=true&ring_color=9b2d30&number_format=long">
+	<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KN13KOMETA&title_color=f44&text_color=fff&border_color=111117&bg_color=222227&border_radius=4.5&layout=donut&langs_count=5&custom_title=My%20Most%20Used%20Languages">
 </span>
 <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=ClintFlames&title_color=f44&text_color=fff&border_color=111117&bg_color=222227&border_radius=4.5&custom_title=My%20Wakatime%20Stats&layout=compact&langs_count=12">
 I always on connect in discord (if not busy irl), you can find me here:<br>
