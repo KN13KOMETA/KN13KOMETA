@@ -6,11 +6,13 @@ I am JS/TS developer. I mostly write discord bots, but it's fun to do something 
 # Some of my skills:
 - JavaScript/TypeScript
 - Node.JS
-- Bash
 
 ## Some of my "not so good but not so bad" skills
 - HTML/CSS
 - Haxe
+- Bash
+- AWK
+- Make
 
 ## Learning
 - C
