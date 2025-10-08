@@ -13,6 +13,7 @@ I am JS/TS developer. I mostly write discord bots, but it's fun to do something 
 - Bash
 - AWK
 - Make
+- CMake
 
 ## Learning
 - C
