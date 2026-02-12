@@ -12,8 +12,8 @@
   <a href="https://t.me/TKN13KOMETA">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logoColor=fff&logo=telegram">
   </a>
-  <a href="https://github.com/KN13KOMETA/dotfiles">
-    <img alt="dotfiles" src="https://img.shields.io/badge/dotfiles-F05032?style=for-the-badge&logoColor=fff&logo=git">
+  <a href="https://github.com/KN13KOMETA/home-manager">
+    <img alt="Home Manager" src="https://img.shields.io/badge/Home%20Manager-5277C3?style=for-the-badge&logoColor=fff&logo=nixos">
   </a>
   <a href="https://www.youtube.com/playlist?list=PLwuTirF-HU3HcOW5vfMFBUF5Kz4tAbHDy">
     <img alt="Music Playlist" src="https://img.shields.io/badge/Music Playlist-FF0000?style=for-the-badge&logoColor=fff&logo=youtube">
