@@ -34,6 +34,9 @@
   <summary><h2>Projects</h2></summary>
 
   <p>
+    <a href="https://github.com/KN13KOMETA/asmfac">
+      <img width="333" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KN13KOMETA&repo=asmfac&theme=react&bg_color=1F222E&title_color=F44&hide_border=true&icon_color=F8D866&show_icons=false" alt="asmfac">
+    </a>
     <a href="https://github.com/KN13KOMETA/c_text_rpg">
       <img width="333" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KN13KOMETA&repo=c_text_rpg&theme=react&bg_color=1F222E&title_color=F44&hide_border=true&icon_color=F8D866&show_icons=false" alt="c_text_rpg">
     </a>
